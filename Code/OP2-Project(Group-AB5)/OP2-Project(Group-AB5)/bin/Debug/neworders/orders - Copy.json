@@ -1,0 +1,181 @@
+[
+  {
+    "OrderNumber": 18382,
+    "Customer": {
+      "IDNumber": 58389,
+      "Name": "Ingvar",
+      "Phone": "073451233",
+      "EMail": "mejl2@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-08-26T12:06:06.7436598+01:00",
+    "DeliveryAdress": "asdf",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 51588,
+          "Name": "Phoneee",
+          "Price": 2099,
+          "Stock": 3,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 1
+      },
+      {
+        "Product": {
+          "Code": 15094,
+          "Name": "Chair",
+          "Price": 300,
+          "Stock": 8,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "OrderNumber": 19792,
+    "Customer": {
+      "IDNumber": 58389,
+      "Name": "Ingvar",
+      "Phone": "073451233",
+      "EMail": "mejl2@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-10-26T12:06:14.0035449+01:00",
+    "DeliveryAdress": "asdfa",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 14068,
+          "Name": "Wallet",
+          "Price": 40,
+          "Stock": 8,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "OrderNumber": 10180,
+    "Customer": {
+      "IDNumber": 58389,
+      "Name": "Ingvar",
+      "Phone": "073451233",
+      "EMail": "mejl2@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-10-26T12:06:19.3856966+01:00",
+    "DeliveryAdress": "asdfas",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 10094,
+          "Name": "Computer",
+          "Price": 3500,
+          "Stock": 4,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "OrderNumber": 15553,
+    "Customer": {
+      "IDNumber": 58389,
+      "Name": "Ingvar",
+      "Phone": "073451233",
+      "EMail": "mejl2@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-10-26T12:06:22.717605+01:00",
+    "DeliveryAdress": "asdf",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 12361,
+          "Name": "Table",
+          "Price": 500,
+          "Stock": 6,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "OrderNumber": 16823,
+    "Customer": {
+      "IDNumber": 60597,
+      "Name": "Kurt",
+      "Phone": "073451334",
+      "EMail": "mejl@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-10-26T12:06:27.1119187+01:00",
+    "DeliveryAdress": "asdf",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 51588,
+          "Name": "Phone",
+          "Price": 2099,
+          "Stock": 3,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "OrderNumber": 16559,
+    "Customer": {
+      "IDNumber": 60597,
+      "Name": "Kurt",
+      "Phone": "073451334",
+      "EMail": "mejl@mejl.com",
+      "ArchivedOrders": []
+    },
+    "OrderDate": "2020-10-26T12:06:36.24389+01:00",
+    "DeliveryAdress": "asdfv",
+    "PaymentCompleted": false,
+    "PaymentRefunded": false,
+    "Dispatched": false,
+    "Items": [
+      {
+        "Product": {
+          "Code": 14420,
+          "Name": "Monitor",
+          "Price": 1000,
+          "Stock": 0,
+          "FirstAvailable": "2020-10-26T00:00:00+01:00",
+          "NextStocking": "2020-11-01T00:00:00"
+        },
+        "Count": 2
+      }
+    ]
+  }
+]
